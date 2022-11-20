@@ -1,6 +1,5 @@
 # 💫 About Me:
-☕ Tea is better than Coffee.<br>🖨️ I hate printer. They have nothing to do with developers.<br>🧑‍💼 I have my own Company.<br>☣️ I have my own GitLab Server running.
-
+☕ Tea is better than Coffee.<br>🖨️ I hate printer. They have nothing to do with developers.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/NUPCNUA) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@palkirzwei?lang=de-DE) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](NUPCNUA)
