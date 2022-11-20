@@ -1,5 +1,5 @@
 # 💫 About Me:
-☕ Coffee is better than tea.<br>🖨️ I hate printer. They have nothing to do with developers.<br>🧑‍💼 I have my own Company.<br>☣️ I have my own GitLab Server running.
+☕ Tea is better than Coffee.<br>🖨️ I hate printer. They have nothing to do with developers.<br>🧑‍💼 I have my own Company.<br>☣️ I have my own GitLab Server running.
 
 
 ## 🌐 Socials:
